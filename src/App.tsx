@@ -5,7 +5,7 @@ function App() {
 	return (
 		<BrowserRouter>
 			<Routes>
-				<Route path="/" element={<LiveOn />} />
+				<Route path="/liveon" element={<LiveOn />} />
 			</Routes>
 		</BrowserRouter>
 	)
