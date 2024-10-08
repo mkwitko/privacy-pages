@@ -1,9 +1,9 @@
-import PageTemplate from './PageTemplate'
+import PageTemplate from './Templates/PageTemplate'
 
 export default function LiveOn() {
 	return (
 		<PageTemplate
-			name="Live On"
+			name="StreamAlert"
 			email="mauriciokwt@gmail.com"
 			excludeEmail="mauriciokwt@gmail.com"
 			people={[
@@ -12,12 +12,6 @@ export default function LiveOn() {
 					email: 'mauriciokwt@gmail.com',
 					type: 'Desenvolvedor',
 					position: 'Lider de Desenvolvimento',
-				},
-				{
-					name: 'Eduardo',
-					email: 'eduardoadvogacacia@gmail.com',
-					type: 'Advogado',
-					position: 'Sócio Fundador',
 				},
 			]}
 		/>
