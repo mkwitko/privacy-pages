@@ -3,6 +3,8 @@ import Fortune from "./pages/Fortune/Fortune";
 import FortuneSupport from "./pages/Fortune/FortuneSupport";
 import LiveOn from "./pages/LiveOn";
 import LiveOnSupport from "./pages/LiveOnSupport";
+import Connect from "./pages/Connect/Connect";
+import ConnectSupport from "./pages/Connect/ConnectSupport";
 
 function App() {
   return (
@@ -12,8 +14,8 @@ function App() {
         <Route path="/streamAlertSupport" element={<LiveOnSupport />} />
         <Route path="/fortune" element={<Fortune />} />
         <Route path="/fortuneSupport" element={<FortuneSupport />} />
-        <Route path="/connect" element={<Fortune />} />
-        <Route path="/connectSupport" element={<FortuneSupport />} />
+        <Route path="/connect" element={<Connect />} />
+        <Route path="/connectSupport" element={<ConnectSupport />} />
       </Routes>
     </BrowserRouter>
   );

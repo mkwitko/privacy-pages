@@ -1,6 +1,6 @@
 import PageTemplate from "../Templates/PageTemplate";
 
-export default function Fortune() {
+export default function Connect() {
   return (
     <PageTemplate
       name="Connect"
