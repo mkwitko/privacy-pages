@@ -32,10 +32,10 @@ export default function ConnectTemplate({
             <p>
               Este documento contém informações estratégicas / confidenciais do{" "}
               <strong>{name}</strong>. Qualquer cópia, distribuição ou
-              divulgação não autorizada das informações aqui contidas e uma
+              divulgação não autorizada das informações aqui contidas é uma
               violação das políticas e dos direitos de propriedade da{" "}
-              <strong>{name}</strong>. Se impresso, o normativo e considerado
-              como &quot;cópia não controlada&quot; e perde sua validade.
+              <strong>{name}</strong>. Se impresso, o normativo é considerado
+              como "cópia não controlada" e perde sua validade.
             </p>
           </article>
         </div>
@@ -72,130 +72,159 @@ export default function ConnectTemplate({
                 </li>
                 <li>
                   <a href="#diretrizes-dever-de-nao-fornecer-dados-de-terceiros">
-                    Dever de não Fornecer Dados de Terceiros 5
+                    Dever de não Fornecer Dados de Terceiros 4
                   </a>
                 </li>
                 <li>
                   <a href="#diretrizes-dados-pessoais-e-sensiveis">
-                    Dados Pessoais e Sensíveis 5
+                    Dados Pessoais e Sensíveis 4
                   </a>
                   <ol>
                     <li>
                       <a href="#diretrizes-dados-pessoais-e-sensiveis-tipos-de-dados-coletados">
-                        Tipos de Dados Coletados 5
+                        Tipos de Dados Coletados 4
                       </a>
                     </li>
                     <li>
                       <a href="#diretrizes-dados-pessoais-e-sensiveis-fundamento-juridico-para-tratamento-de-dados-pessoais">
-                        Fundamento Jurídico Para Tratamento de Dados Pessoais 6
+                        Fundamento Jurídico Para Tratamento de Dados Pessoais 5
                       </a>
                     </li>
                     <li>
                       <a href="#diretrizes-dados-pessoais-e-sensiveis-finalidade-do-tratamento-dos-dados-pessoais">
-                        Finalidade do Tratamento dos Dados Pessoais 6
+                        Finalidade do Tratamento dos Dados Pessoais 5
                       </a>
                     </li>
                     <li>
                       <a href="#diretrizes-dados-pessoais-e-sensiveis-prazo-de-conservacao-dos-dados-pessoais">
-                        Prazo de Conservação dos Dados Pessoais 6
+                        Prazo de Conservação dos Dados Pessoais 5
                       </a>
                     </li>
                   </ol>
                 </li>
-
+                <li>
+                  <a href="#diretrizes-permissoes-aplicativo">
+                    Permissões do Aplicativo 5
+                  </a>
+                  <ol>
+                    <li>
+                      <a href="#diretrizes-permissoes-aplicativo-localizacao">
+                        Permissões de Localização 5
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#diretrizes-permissoes-aplicativo-comunicacao">
+                        Permissões de Comunicação 5
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#diretrizes-permissoes-aplicativo-sistema">
+                        Permissões de Sistema 5
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#diretrizes-permissoes-aplicativo-notificacao">
+                        Permissões de Notificação 5
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#diretrizes-permissoes-aplicativo-midia-arquivos">
+                        Permissões de Mídia e Arquivos 5
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#diretrizes-permissoes-aplicativo-adicionais">
+                        Permissões Adicionais 5
+                      </a>
+                    </li>
+                  </ol>
+                </li>
                 <li>
                   <a href="#diretrizes-tratamento-dos-dados-pessoais">
-                    Do Tratamento dos Dados Pessoais 7
+                    Do Tratamento dos Dados Pessoais 6
                   </a>
                   <ol>
                     <li>
                       <a href="#diretrizes-tratamento-dos-dados-pessoais-responsabilidade-pelo-tratamento-dos-dados">
                         Responsabilidades Pelo Tratamento dos Dados (Data
-                        Controller) 7
+                        Controller) 6
                       </a>
                     </li>
                     <li>
                       <a href="#diretrizes-tratamento-dos-dados-pessoais-responsabilidade-pela-protecao-dos-dados">
                         Responsabilidades Pela Proteção dos Dados (Data
-                        Protection Officer) 7
+                        Protection Officer) 6
                       </a>
                     </li>
                   </ol>
                 </li>
-
                 <li>
                   <a href="#diretrizes-seguranca-no-tratamento-dos-dados-pessoais">
-                    Segurança no Tratamento dos Dados Pessoais 7
+                    Segurança no Tratamento dos Dados Pessoais 6
                   </a>
                 </li>
                 <li>
                   <a href="#diretrizes-dados-de-navegacao">
-                    Dados de Navegação (Cookies) 8
+                    Dados de Navegação (Cookies) 7
                   </a>
                   <ol>
                     <li>
                       <a href="#diretrizes-dados-de-navegacao-cookies-do-sistema">
-                        Cookies do Sistema 8
+                        Cookies do Sistema 7
                       </a>
                     </li>
                     <li>
                       <a href="#diretrizes-dados-de-navegacao-gestao-de-cookies-e-configuracoes-do-navegador">
-                        Gestão de Cookies e Configurações do Navegador 8
+                        Gestão de Cookies e Configurações do Navegador 7
                       </a>
                     </li>
                   </ol>
                 </li>
-
                 <li>
-                  <a href="#diretrizes-alteracoes">Alterações 8</a>
+                  <a href="#diretrizes-alteracoes">Alterações 7</a>
                 </li>
               </ol>
             </li>
-
             <li>
-              <a href="#comissao-tecnica">Comissão Tecnica 9</a>
-
+              <a href="#comissao-tecnica">Comissão Técnica 8</a>
               <ol>
                 <li>
-                  <a href="#omissao-tecnica-produtos">Produtos 9</a>
+                  <a href="#comissao-tecnica-produtos">Produtos 8</a>
                 </li>
                 <li>
                   <a href="#comissao-tecnica-seguranca-de-informacao-e-privacidade">
-                    Segurança de Informação e Privacidade 9
+                    Segurança de Informação e Privacidade 8
                   </a>
                 </li>
                 <li>
-                  <a href="#comissao-tecnica-direcao">Direção 9</a>
+                  <a href="#comissao-tecnica-direcao">Direção 8</a>
                 </li>
               </ol>
             </li>
-
             <li>
               <a href="#anexo-a-controle-de-versoes">
-                Anexo A - Controle de Versões 9
+                Anexo A - Controle de Versões 8
               </a>
               <ol>
                 <li>
                   <a href="#anexo-a-controle-de-versoes-registro-de-alteracoes">
-                    Registro de alterações 9
+                    Registro de Alterações 8
                   </a>
                 </li>
                 <li>
                   <a href="#anexo-a-controle-de-versoes-revisao-e-aprovacao">
-                    Revisão e aprovação 9
+                    Revisão e Aprovação 8
                   </a>
                 </li>
               </ol>
             </li>
-
             <li>
               <a href="#anexo-b-documentos-relacionados">
-                Anexo B - Documentos Relacionados 9
+                Anexo B - Documentos Relacionados 8
               </a>
             </li>
-
             <li>
-              <a href="#exclusao">Exclusao da conta</a>
+              <a href="#exclusao">Exclusão da Conta 8</a>
             </li>
           </ol>
         </nav>
@@ -208,14 +237,12 @@ export default function ConnectTemplate({
           <p>
             Este documento estabelece as diretrizes para a proteção de dados
             pessoais dos usuários que acessam os serviços do{" "}
-            <strong>
-              <strong>{name}</strong>
-            </strong>
-            . Contém informações a respeito do modo como tratamos, total ou
-            parcialmente, de forma automatizada ou não, os dados pessoais dos
-            usuários. Seu objetivo e esclarecer os interessados acerca dos tipos
-            de dados que são coletados, dos motivos da coleta e da forma como o
-            usuário poderá atualizar, gerenciar ou excluir estas informações.
+            <strong>{name}</strong>. Contém informações a respeito do modo como
+            tratamos, total ou parcialmente, de forma automatizada ou não, os
+            dados pessoais dos usuários. Seu objetivo é esclarecer os
+            interessados acerca dos tipos de dados que são coletados, dos
+            motivos da coleta e da forma como o usuário poderá atualizar,
+            gerenciar ou excluir estas informações.
           </p>
 
           <p>
@@ -242,7 +269,7 @@ export default function ConnectTemplate({
         <article>
           <p>
             Este documento e seus componentes relacionados (Anexo B) aplicam-se
-            a todo e qualquer usuário com acesso as informações da {name},
+            a todo e qualquer usuário com acesso às informações da {name},
             independentemente de seu vínculo com a Instituição: dirigente,
             colaborador efetivo, estagiário, temporário ou terceiro.
           </p>
@@ -320,13 +347,13 @@ export default function ConnectTemplate({
             </li>
             <li>
               Os dados pessoais do usuário serão coletados apenas para
-              finalidades determinadas, explicitas e legitimas, não podendo ser
+              finalidades determinadas, explícitas e legítimas, não podendo ser
               tratados posteriormente de uma forma incompatível com essas
               finalidades (limitação das finalidades);
             </li>
             <li>
               Os dados pessoais do usuário serão coletados de forma adequada,
-              pertinente e limitada as necessidades do objetivo para os quais
+              pertinente e limitada às necessidades do objetivo para os quais
               eles são processados (minimização dos dados);
             </li>
             <li>
@@ -351,26 +378,26 @@ export default function ConnectTemplate({
 
           <p>
             O usuário do sistema possui os seguintes direitos, conferidos pela
-            Lei Geral de Proteção de Dados Pessoais e pelo LGDP:
+            Lei Geral de Proteção de Dados Pessoais e pelo RGDP:
           </p>
           <ul>
             <li>
-              Direito de confirmação e acesso: e o direito do usuário de obter
+              Direito de confirmação e acesso: é o direito do usuário de obter
               do sistema a confirmação de que os dados pessoais que lhe digam
               respeito são ou não objeto de tratamento e, se for esse o caso, o
               direito de acessar os seus dados pessoais;
             </li>
             <li>
-              Direito de retificação: e o direito do usuário de obter do
+              Direito de retificação: é o direito do usuário de obter do
               sistema, sem demora injustificada, a retificação dos dados
               pessoais inexatos que lhe digam respeito;
             </li>
             <li>
-              Direito a eliminação dos dados (direito ao esquecimento): e o
+              Direito à eliminação dos dados (direito ao esquecimento): é o
               direito do usuário de ter seus dados apagados do sistema;
             </li>
             <li>
-              Direito a limitação do tratamento dos dados: e o direito do
+              Direito à limitação do tratamento dos dados: é o direito do
               usuário de limitar o tratamento de seus dados pessoais, podendo
               obtê-la quando contesta a exatidão dos dados, quando o tratamento
               for ilícito, quando o sistema não precisar mais dos dados para as
@@ -378,32 +405,32 @@ export default function ConnectTemplate({
               dados e em caso de tratamento de dados desnecessários;
             </li>
             <li>
-              Direito de oposição: e o direito do usuário de, a qualquer
+              Direito de oposição: é o direito do usuário de, a qualquer
               momento, se opor por motivos relacionados com a sua situação
               particular, ao tratamento dos dados pessoais que lhe digam
               respeito, podendo se opor ainda ao uso de seus dados pessoais para
-              definição de perfil de marketing (profliga);
+              definição de perfil de marketing (profiling);
             </li>
             <li>
-              Direito de portabilidade dos dados: e o direito do usuário de
+              Direito de portabilidade dos dados: é o direito do usuário de
               receber os dados pessoais que lhe digam respeito e que tenha
               fornecido ao sistema, num formato estruturado, de uso corrente e
               de leitura automática, e o direito de transmitir esses dados a
               outro sistema;
             </li>
             <li>
-              Direito de não ser submetido a decisões automatizadas: e o direito
+              Direito de não ser submetido a decisões automatizadas: é o direito
               do usuário de não ficar sujeito a nenhuma decisão tomada
               exclusivamente com base no tratamento automatizado, incluindo a
-              definição de perfis (profliga), que produza efeitos na sua esfera
+              definição de perfis (profiling), que produza efeitos na sua esfera
               jurídica ou que o afete significativamente de forma similar.
             </li>
           </ul>
 
           <p>
             O usuário poderá exercer os seus direitos por meio de comunicação
-            escrita enviada a <strong>{name}</strong> o assunto
-            &quot;LGDP&quot;, especificando:
+            escrita enviada à <strong>{name}</strong> com o assunto "LGPD",
+            especificando:
           </p>
 
           <ul>
@@ -420,20 +447,20 @@ export default function ConnectTemplate({
               Todo documento que possa demonstrar ou justificar o exercício de
               seu direito.
             </li>
-
-            <p>
-              O pedido deverá ser enviado ao e-mail:{" "}
-              <a href={`mailto:${email}`}>{email}</a>.
-            </p>
-            <p>
-              O usuário será informado em caso de retificação ou eliminação dos
-              seus dados.
-            </p>
           </ul>
+
+          <p>
+            O pedido deverá ser enviado ao e-mail:{" "}
+            <a href={`mailto:${email}`}>{email}</a>.
+          </p>
+          <p>
+            O usuário será informado em caso de retificação ou eliminação dos
+            seus dados.
+          </p>
         </article>
 
         <article id="diretrizes-dever-de-nao-fornecer-dados-de-terceiros">
-          <h4>4.2 Dever de não Fornecer Dados de Terceiros</h4>
+          <h4>5.2 Dever de não Fornecer Dados de Terceiros</h4>
 
           <p>
             Durante a utilização dos serviços da <strong>{name}</strong>, a fim
@@ -450,7 +477,7 @@ export default function ConnectTemplate({
             <strong>Dados Pessoais</strong> - Informação relacionada a pessoa
             física que pode ser usada para sua identificação de forma direta, ou
             seja, a Informação sozinha identifica a pessoa, como por exemplo:
-            CPF, RG, nome completo. Ainda, e considerado Informação relacionada
+            CPF, RG, nome completo. Ainda, é considerado Informação relacionada
             a pessoa física que pode ser usada para sua identificação de forma
             indireta, em que a combinação de informações pode identificar uma
             pessoa, como por exemplo: endereço associado a aspectos físicos e a
@@ -458,17 +485,17 @@ export default function ConnectTemplate({
             idade, entre outros.
           </p>
           <p>
-            <strong>Dados Pessoais Sensíveis </strong> - IDado pessoal de pessoa
+            <strong>Dados Pessoais Sensíveis</strong> - Dado pessoal de pessoa
             física sobre origem racial ou étnica, convicção religiosa, opinião
-            Política, filiação a sindicato ou a organização de caráter
-            religioso, filosófico ou político, dado referente a saúde ou a vida
+            política, filiação a sindicato ou a organização de caráter
+            religioso, filosófico ou político, dado referente à saúde ou à vida
             sexual, dado genético ou biométrico que pode gerar discriminação
             contra o titular. Por exemplo: religião, etnia, opção sexual,
             Informação sobre pessoa exposta politicamente, entre outros.
           </p>
 
           <div id="diretrizes-dados-pessoais-e-sensiveis-tipos-de-dados-coletados">
-            <h5>5.3.1. Tipos de Dados Coletados</h5>
+            <h5>5.3.1 Tipos de Dados Coletados</h5>
             <strong>Dados de Identificação Para Realização de Cadastro</strong>
             <br />
             <p>
@@ -519,97 +546,10 @@ export default function ConnectTemplate({
               O usuário pode revogar as permissões de localização a qualquer
               momento nas configurações do dispositivo.
             </p>
-
-            <strong>Detalhamento das Permissões Utilizadas</strong>
-            <p>
-              O aplicativo {name} requer as seguintes permissões do Android para
-              funcionamento adequado:
-            </p>
-            <ul>
-              <li>
-                <strong>Permissões de Localização:</strong>
-                <ul>
-                  <li>
-                    Rastreamento em segundo plano (ACCESS_BACKGROUND_LOCATION)
-                  </li>
-                  <li>Precisão máxima de localização (ACCESS_FINE_LOCATION)</li>
-                  <li>Localização aproximada (ACCESS_COARSE_LOCATION)</li>
-                  <li>
-                    Serviço de localização em primeiro plano
-                    (FOREGROUND_SERVICE_LOCATION)
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <strong>Permissões de Comunicação:</strong>
-                <ul>
-                  <li>
-                    Conexão com internet para comunicação com o servidor
-                    (INTERNET)
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <strong>Permissões de Sistema:</strong>
-                <ul>
-                  <li>
-                    Execução de serviços em primeiro plano (FOREGROUND_SERVICE)
-                  </li>
-                  <li>
-                    Reinício de serviços após reinicialização do dispositivo
-                    (RECEIVE_BOOT_COMPLETED)
-                  </li>
-                  <li>
-                    Manutenção do dispositivo ativo durante operações críticas
-                    (WAKE_LOCK)
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <strong>Permissões de Notificação:</strong>
-                <ul>
-                  <li>Envio de notificações ao usuário (POST_NOTIFICATIONS)</li>
-                </ul>
-              </li>
-              <li>
-                <strong>Permissões de Mídia e Arquivos:</strong>
-                <ul>
-                  <li>Leitura de arquivos externos (READ_EXTERNAL_STORAGE)</li>
-                  <li>
-                    Gravação de arquivos externos (WRITE_EXTERNAL_STORAGE)
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <strong>Permissões Adicionais:</strong>
-                <ul>
-                  <li>
-                    Acesso à câmera para funcionalidades específicas (CAMERA)
-                  </li>
-                  <li>Gravação de áudio quando necessário (RECORD_AUDIO)</li>
-                  <li>
-                    Modificação de configurações de áudio
-                    (MODIFY_AUDIO_SETTINGS)
-                  </li>
-                  <li>Acesso ao estado do telefone (READ_PHONE_STATE)</li>
-                  <li>
-                    Criação de janelas de sobreposição (SYSTEM_ALERT_WINDOW)
-                  </li>
-                </ul>
-              </li>
-            </ul>
-
-            <p>
-              Todas as permissões são utilizadas exclusivamente para garantir o
-              funcionamento eficiente, seguro e confiável do serviço de
-              atendimento de emergência médica.
-            </p>
           </div>
 
           <div id="diretrizes-dados-pessoais-e-sensiveis-fundamento-juridico-para-tratamento-de-dados-pessoais">
-            <h5>
-              5.3.2. Fundamento Jurídico Para Tratamento de Dados Pessoais
-            </h5>
+            <h5>5.3.2 Fundamento Jurídico Para Tratamento de Dados Pessoais</h5>
 
             <p>
               Ao utilizar os serviços do sistema, o usuário está consentindo com
@@ -620,7 +560,7 @@ export default function ConnectTemplate({
               O usuário tem o direito de retirar seu consentimento a qualquer
               momento, não comprometendo a licitude do tratamento de seus dados
               pessoais antes da retirada. A retirada do consentimento poderá ser
-              feita pelo e-mail: <a href={`mailto:${email}`}>{email}</a>
+              feita pelo e-mail: <a href={`mailto:${email}`}>{email}</a>.
             </p>
 
             <p>
@@ -636,7 +576,7 @@ export default function ConnectTemplate({
             </p>
             <p>
               O tratamento de dados pessoais sem o consentimento do usuário
-              apenas será realizado em razão de interesse legitimo ou para as
+              apenas será realizado em razão de interesse legítimo ou para as
               hipóteses previstas em lei, ou seja, dentre outras, as seguintes:
             </p>
 
@@ -656,11 +596,11 @@ export default function ConnectTemplate({
               </li>
               <li>
                 Para o exercício regular de direitos em processo judicial,
-                administrativo ou arbitral, esse último nos termos da Lei no
+                administrativo ou arbitral, esse último nos termos da Lei nº
                 9.307, de 23 de setembro de 1996 (Lei de Arbitragem);
               </li>
               <li>
-                Para a Proteção da vida ou da incolumidade física do titular dos
+                Para a proteção da vida ou da incolumidade física do titular dos
                 dados ou de terceiros;
               </li>
               <li>
@@ -671,22 +611,22 @@ export default function ConnectTemplate({
                 Quando necessário para atender aos interesses legítimos do
                 controlador ou de terceiros, exceto no caso de prevalecerem
                 direitos e liberdades fundamentais do titular dos dados que
-                exijam a Proteção dos dados pessoais;
+                exijam a proteção dos dados pessoais;
               </li>
               <li>
-                Para a Proteção do crédito, inclusive quanto ao disposto na
+                Para a proteção do crédito, inclusive quanto ao disposto na
                 legislação pertinente.
               </li>
             </ul>
           </div>
 
           <div id="diretrizes-dados-pessoais-e-sensiveis-finalidade-do-tratamento-dos-dados-pessoais">
-            <h5>5.3.3. Finalidade do Tratamento dos Dados Pessoais</h5>
+            <h5>5.3.3 Finalidade do Tratamento dos Dados Pessoais</h5>
 
             <p>
               Os dados pessoais do usuário coletados pelo sistema têm por
               finalidade facilitar, agilizar e cumprir os compromissos
-              estabelecidos com o usuário e a fazer cumprir as solicitações
+              estabelecidos com o usuário e fazer cumprir as solicitações
               realizadas.
             </p>
 
@@ -703,22 +643,22 @@ export default function ConnectTemplate({
               usuários cadastrados.
             </p>
             <p>
-              A coleta de dados relacionados ou necessários a execução de um
+              A coleta de dados relacionados ou necessários à execução de um
               contrato de compra e venda ou de prestação de serviços
               eventualmente firmado com o usuário terá a finalidade de conferir
-              as partes Segurança jurídica, além de facilitar e viabilizar a
+              às partes segurança jurídica, além de facilitar e viabilizar a
               conclusão do negócio.
             </p>
             <p>
               O tratamento de dados pessoais para finalidades não previstas
-              nesta Política de Privacidade somente ocorrera mediante
-              comunicação previa ao usuário, sendo que, em qualquer caso, os
+              nesta Política de Privacidade somente ocorrerá mediante
+              comunicação prévia ao usuário, sendo que, em qualquer caso, os
               direitos e obrigações aqui previstos permanecerão aplicáveis.
             </p>
           </div>
 
           <div id="diretrizes-dados-pessoais-e-sensiveis-prazo-de-conservacao-dos-dados-pessoais">
-            <h5>5.3.4. Prazo de Conservação dos Dados Pessoais</h5>
+            <h5>5.3.4 Prazo de Conservação dos Dados Pessoais</h5>
 
             <p>
               Os dados pessoais do usuário serão conservados pelo prazo máximo
@@ -752,63 +692,169 @@ export default function ConnectTemplate({
           </div>
         </article>
 
+        <article id="diretrizes-permissoes-aplicativo">
+          <h4>5.4 Permissões do Aplicativo</h4>
+          <p>
+            O aplicativo {name} requer permissões específicas para garantir o
+            funcionamento eficiente, seguro e confiável do serviço de
+            atendimento de emergência médica. Abaixo, detalhamos cada tipo de
+            permissão utilizada:
+          </p>
+
+          <div id="diretrizes-permissoes-aplicativo-localizacao">
+            <h5>5.4.1 Permissões de Localização</h5>
+            <p>
+              O aplicativo utiliza permissões de localização para o serviço de
+              central de comando, com os seguintes objetivos:
+            </p>
+            <ul>
+              <li>
+                Acompanhamento preciso da localização de ambulâncias em serviço
+              </li>
+              <li>
+                Otimização de roteamento e despacho para ocorrências
+                emergenciais
+              </li>
+              <li>
+                Garantia da segurança e eficiência do atendimento médico de
+                emergência
+              </li>
+            </ul>
+            <p>
+              <strong>Permissões específicas:</strong>
+            </p>
+            <ul>
+              <li>
+                Rastreamento em segundo plano (ACCESS_BACKGROUND_LOCATION)
+              </li>
+              <li>Precisão máxima de localização (ACCESS_FINE_LOCATION)</li>
+              <li>Localização aproximada (ACCESS_COARSE_LOCATION)</li>
+              <li>
+                Serviço de localização em primeiro plano
+                (FOREGROUND_SERVICE_LOCATION)
+              </li>
+            </ul>
+            <p>
+              O acesso à localização é exclusivo para a central de comando,
+              restrito ao período de serviço ativo do profissional e protegido
+              contra compartilhamento não autorizado. O usuário pode revogar
+              essas permissões a qualquer momento nas configurações do
+              dispositivo.
+            </p>
+          </div>
+
+          <div id="diretrizes-permissoes-aplicativo-comunicacao">
+            <h5>5.4.2 Permissões de Comunicação</h5>
+            <ul>
+              <li>
+                Conexão com internet para comunicação com o servidor (INTERNET)
+              </li>
+            </ul>
+          </div>
+
+          <div id="diretrizes-permissoes-aplicativo-sistema">
+            <h5>5.4.3 Permissões de Sistema</h5>
+            <ul>
+              <li>
+                Execução de serviços em primeiro plano (FOREGROUND_SERVICE)
+              </li>
+              <li>
+                Reinício de serviços após reinicialização do dispositivo
+                (RECEIVE_BOOT_COMPLETED)
+              </li>
+              <li>
+                Manutenção do dispositivo ativo durante operações críticas
+                (WAKE_LOCK)
+              </li>
+            </ul>
+          </div>
+
+          <div id="diretrizes-permissoes-aplicativo-notificacao">
+            <h5>5.4.4 Permissões de Notificação</h5>
+            <ul>
+              <li>Envio de notificações ao usuário (POST_NOTIFICATIONS)</li>
+            </ul>
+          </div>
+
+          <div id="diretrizes-permissoes-aplicativo-midia-arquivos">
+            <h5>5.4.5 Permissões de Mídia e Arquivos</h5>
+            <ul>
+              <li>Leitura de arquivos externos (READ_EXTERNAL_STORAGE)</li>
+              <li>Gravação de arquivos externos (WRITE_EXTERNAL_STORAGE)</li>
+            </ul>
+          </div>
+
+          <div id="diretrizes-permissoes-aplicativo-adicionais">
+            <h5>5.4.6 Permissões Adicionais</h5>
+            <ul>
+              <li>Acesso à câmera para funcionalidades específicas (CAMERA)</li>
+              <li>Gravação de áudio quando necessário (RECORD_AUDIO)</li>
+              <li>
+                Modificação de configurações de áudio (MODIFY_AUDIO_SETTINGS)
+              </li>
+              <li>Acesso ao estado do telefone (READ_PHONE_STATE)</li>
+              <li>Criação de janelas de sobreposição (SYSTEM_ALERT_WINDOW)</li>
+            </ul>
+          </div>
+        </article>
+
         <article id="diretrizes-tratamento-dos-dados-pessoais">
-          <h4>5.4 Do Tratamento dos Dados Pessoais</h4>
+          <h4>5.5 Do Tratamento dos Dados Pessoais</h4>
 
           <div id="diretrizes-tratamento-dos-dados-pessoais-responsabilidade-pelo-tratamento-dos-dados">
             <h5>
-              5.4.1. Responsabilidades Pelo Tratamento dos Dados (Data
+              5.5.1 Responsabilidades Pelo Tratamento dos Dados (Data
               Controller)
             </h5>
 
             <p>
               O controlador, responsável pelo tratamento dos dados pessoais do
-              usuário, e a pessoa física ou jurídica, a autoridade pública, a
+              usuário, é a pessoa física ou jurídica, a autoridade pública, a
               agência ou outro organismo que, individualmente ou em conjunto com
               outras, determina as finalidades e os meios de tratamento de dados
               pessoais.
             </p>
 
             <p>
-              O responsável pelo tratamento dos dados pessoais coletados e da
+              O responsável pelo tratamento dos dados pessoais coletados é da
               área responsável, representada pela área de Tecnologia da
               Informação, que poderá ser contactado pelo e-mail:
               <a href={`mailto:${email}`}>{email}</a>.
             </p>
 
             <p>
-              O responsável pelo tratamento dos dados se encarregara diretamente
+              O responsável pelo tratamento dos dados se encarregará diretamente
               do tratamento dos dados pessoais do usuário.
             </p>
           </div>
 
           <div id="diretrizes-tratamento-dos-dados-pessoais-responsabilidade-pela-protecao-dos-dados">
             <h5>
-              5.4.2. Responsabilidades Pela Proteção dos Dados (Data Protection
+              5.5.2 Responsabilidades Pela Proteção dos Dados (Data Protection
               Officer)
             </h5>
 
             <p>
-              O encarregado de Proteção de dados (Data Protection Officer) e o
+              O encarregado de Proteção de Dados (Data Protection Officer) é o
               profissional encarregado de informar, aconselhar e controlar o
               responsável pelo tratamento dos dados, bem como os trabalhadores
               que tratem os dados, a respeito das obrigações do sistema nos
               termos do RGDP, da Lei de Proteção de Dados Pessoais e de outras
-              disposições de Proteção de dados presentes na legislação nacional
+              disposições de proteção de dados presentes na legislação nacional
               e internacional, em cooperação com a autoridade de controle
               competente.
             </p>
 
             <p>
-              A responsabilidade pela Proteção de dados (Data Protection
-              Officer) e da área de Tecnologia da Informação, que poderá ser
+              A responsabilidade pela Proteção de Dados (Data Protection
+              Officer) é da área de Tecnologia da Informação, que poderá ser
               contactado pelo e-mail: <a href={`mailto:${email}`}>{email}</a>.
             </p>
           </div>
         </article>
 
         <article id="diretrizes-seguranca-no-tratamento-dos-dados-pessoais">
-          <h4>5.5 Segurança no Tratamento dos Dados Pessoais</h4>
+          <h4>5.6 Segurança no Tratamento dos Dados Pessoais</h4>
 
           <p>
             O <strong>{name}</strong> se compromete a aplicar as medidas
@@ -818,7 +864,7 @@ export default function ConnectTemplate({
           </p>
 
           <p>
-            Para a garantia da Segurança, serão adotadas soluções que levem em
+            Para a garantia da segurança, serão adotadas soluções que levem em
             consideração: as técnicas adequadas; os custos de aplicação; a
             natureza, o âmbito, o contexto e as finalidades do tratamento; e os
             riscos para os direitos e liberdades do usuário.
@@ -838,13 +884,13 @@ export default function ConnectTemplate({
             ou crackers, ou culpa exclusiva do usuário, como no caso em que ele
             mesmo transfere seus dados a terceiro. O <strong>{name}</strong> se
             compromete, ainda, a comunicar o usuário em prazo adequado caso
-            ocorra algum tipo de violação da Segurança de seus dados pessoais
+            ocorra algum tipo de violação da segurança de seus dados pessoais
             que possa lhe causar um alto risco para seus direitos e liberdades
             pessoais.
           </p>
 
           <p>
-            A violação de dados pessoais e uma violação de Segurança que
+            A violação de dados pessoais é uma violação de segurança que
             provoque, de modo acidental ou ilícito, a destruição, a perda, a
             alteração, a divulgação ou acessos não autorizados a dados pessoais
             transmitidos, conservados ou sujeitos a qualquer outro tipo de
@@ -859,16 +905,16 @@ export default function ConnectTemplate({
         </article>
 
         <article id="diretrizes-dados-de-navegacao">
-          <h4>5.6 Dados de Navegação (Cookies)</h4>
+          <h4>5.7 Dados de Navegação (Cookies)</h4>
 
           <p>
             Cookies são pequenos arquivos de texto enviados pelo sistema ao
             computador do usuário e que nele ficam armazenados, com informações
-            relacionadas a navegação do sistema.
+            relacionadas à navegação do sistema.
           </p>
 
           <p>
-            Os cookies não permitem que qualquer arquivo ou Informação sejam
+            Os cookies não permitem que qualquer arquivo ou informação sejam
             extraídos do disco rígido do usuário, não sendo possível, ainda,
             que, por meio deles, se tenha acesso a informações pessoais que não
             tenham partido do usuário ou da forma como utiliza os recursos do
@@ -877,7 +923,7 @@ export default function ConnectTemplate({
 
           <p>
             É importante ressaltar que nem todo cookie contém informações que
-            permitem a identificação do usuário, sendo que determinados tipos de
+            permitam a identificação do usuário, sendo que determinados tipos de
             cookies podem ser empregados simplesmente para que o sistema seja
             carregado corretamente ou para que suas funcionalidades funcionem do
             modo esperado.
@@ -891,7 +937,7 @@ export default function ConnectTemplate({
           </p>
 
           <div id="diretrizes-dados-de-navegacao-cookies-do-sistema">
-            <h5>5.6.1. Cookies do Sistema</h5>
+            <h5>5.7.1 Cookies do Sistema</h5>
 
             <p>
               Os cookies do sistema são aqueles enviados ao computador ou
@@ -901,14 +947,14 @@ export default function ConnectTemplate({
 
             <p>
               As informações coletadas por meio destes cookies são utilizadas
-              para melhorar e personalizar a experiencia do usuário, sendo que
+              para melhorar e personalizar a experiência do usuário, sendo que
               alguns cookies podem, por exemplo, ser utilizados para lembrar as
-              preferencias e escolhas do usuário, bem como para o oferecimento
+              preferências e escolhas do usuário, bem como para o oferecimento
               de conteúdo personalizado.
             </p>
           </div>
           <div id="diretrizes-dados-de-navegacao-gestao-de-cookies-e-configuracoes-do-navegador">
-            <h5>5.6.2. Gestão de Cookies e Configurações do Navegador</h5>
+            <h5>5.7.2 Gestão de Cookies e Configurações do Navegador</h5>
 
             <p>
               O usuário poderá se opor ao registro de cookies pelo sistema,
@@ -920,21 +966,21 @@ export default function ConnectTemplate({
               A desativação dos cookies, no entanto, pode afetar a
               disponibilidade de algumas ferramentas e funcionalidades do
               sistema, comprometendo seu correto e esperado funcionamento. Outra
-              consequência possível e remoção das preferências do usuário que
-              eventualmente tiverem sido salvas, prejudicando sua experiencia.
+              consequência possível é a remoção das preferências do usuário que
+              eventualmente tiverem sido salvas, prejudicando sua experiência.
             </p>
           </div>
         </article>
 
         <article id="diretrizes-alteracoes">
-          <h4>5.7 Alterações</h4>
+          <h4>5.8 Alterações</h4>
 
           <p>
-            A Empresa se reserva o direito de modificar, a qualquer momento o
-            sistema, as presentes normas, especialmente para adaptá-las as
-            evoluções dos serviços da Vozes do Giogante, seja pela
-            disponibilização de novas funcionalidades, seja pela supressão ou
-            modificação daquelas já existentes.
+            A Empresa se reserva o direito de modificar, a qualquer momento, o
+            sistema, as presentes normas, especialmente para adaptá-las às
+            evoluções dos serviços da {name}, seja pela disponibilização de
+            novas funcionalidades, seja pela supressão ou modificação daquelas
+            já existentes.
           </p>
 
           <p>
@@ -956,13 +1002,13 @@ export default function ConnectTemplate({
             ou crackers, ou culpa exclusiva do usuário, como no caso em que ele
             mesmo transfere seus dados a terceiro. O <strong>{name}</strong> se
             compromete, ainda, a comunicar o usuário em prazo adequado caso
-            ocorra algum tipo de violação da Segurança de seus dados pessoais
-            que possa lhe causar um alto risco para seus direitos e liberdades
-            pessoais.
+            ocorra algum tipo de violação da segurança de seus dados pessoais
+            Corrosion of Conformity - Deliverance (1994) que possa lhe causar um
+            alto risco para seus direitos e liberdades pessoais.
           </p>
 
           <p>
-            A violação de dados pessoais e uma violação de Segurança que
+            A violação de dados pessoais é uma violação de segurança que
             provoque, de modo acidental ou ilícito, a destruição, a perda, a
             alteração, a divulgação ou acessos não autorizados a dados pessoais
             transmitidos, conservados ou sujeitos a qualquer outro tipo de
@@ -982,7 +1028,7 @@ export default function ConnectTemplate({
 
         {people.map((person, index) => {
           return (
-            <article id="comissao-tecnica-produtos">
+            <article key={index} id="comissao-tecnica-produtos">
               <h4>
                 6.{index + 1} {person.type}
               </h4>
@@ -995,13 +1041,13 @@ export default function ConnectTemplate({
       </section>
 
       <section id="anexo-a-controle-de-versoes">
-        <h2>7. Anexo A- Controle de Versões</h2>
+        <h2>7. Anexo A - Controle de Versões</h2>
 
         <article
           className="overflow-x-auto"
           id="anexo-a-controle-de-versoes-registro-de-alteracoes"
         >
-          <h4>7.1 Registro de alterações</h4>
+          <h4>7.1 Registro de Alterações</h4>
 
           <table className="min-w-[600px]">
             <thead>
@@ -1029,7 +1075,7 @@ export default function ConnectTemplate({
           className="overflow-x-auto"
           id="anexo-a-controle-de-versoes-revisao-e-aprovacao"
         >
-          <h4>7.2 Revisão e aprovação</h4>
+          <h4>7.2 Revisão e Aprovação</h4>
 
           <table className="min-w-[600px]">
             <thead>
@@ -1048,7 +1094,7 @@ export default function ConnectTemplate({
             <tbody>
               <tr>
                 {people.map((person) => {
-                  return <td>{person.name}</td>;
+                  return <td key={person.email}>{person.name}</td>;
                 })}
               </tr>
             </tbody>
@@ -1059,7 +1105,7 @@ export default function ConnectTemplate({
       </section>
 
       <section id="anexo-b-documentos-relacionados">
-        <h2>8. Anexo B- Documentos Relacionados</h2>
+        <h2>8. Anexo B - Documentos Relacionados</h2>
 
         <ul>
           <li>Política de Segurança de Informação;</li>
@@ -1104,13 +1150,13 @@ export default function ConnectTemplate({
       </section>
 
       <section id="exclusao">
-        <h3>Exclusão da conta</h3>
+        <h3>9. Exclusão da Conta</h3>
         <p>
-          Para exclusão da conta, você deve enviar um e-mail diretamente para
-          {excludeEmail} com o assunto: &quot;EXCLUSAO DE CONTA - CONNECT&quot;.
-          Assim que sua solicitação for recebida, iremos excluir todos os dados
-          cadastrados no sistema, bem como todas informações relacionadas a sua
-          conta.
+          Para exclusão da conta, você deve enviar um e-mail diretamente para{" "}
+          <a href={`mailto:${excludeEmail}`}>{excludeEmail}</a> com o assunto:
+          "EXCLUSAO DE CONTA - CONNECT". Assim que sua solicitação for recebida,
+          iremos excluir todos os dados cadastrados no sistema, bem como todas
+          informações relacionadas à sua conta.
         </p>
       </section>
     </main>
