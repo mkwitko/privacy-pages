@@ -1,8 +1,8 @@
-import PageTemplate from "../Templates/PageTemplate";
+import ConnectTemplate from "../Templates/ConnectTemplate";
 
 export default function Connect() {
   return (
-    <PageTemplate
+    <ConnectTemplate
       name="Connect"
       email="comercial@prosperapps.com.br"
       excludeEmail="ti@prosperapps.com.br"
